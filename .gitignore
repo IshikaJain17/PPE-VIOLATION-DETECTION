@@ -29,3 +29,9 @@ Thumbs.db
 
 # Exclude large model files
 *.pt
+
+# Exclude specific files
+app.py
+hubconfCustom.py
+ppe kit and person counter.txt
+real__hubconfCustom.py
