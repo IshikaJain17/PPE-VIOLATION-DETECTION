@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Credentials
+client_secrets.json
+token.json
+
+# Local video files
+static/video/*
+!static/video/.gitkeep
+
+# Local report files
+static/reports/*
+!static/reports/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
