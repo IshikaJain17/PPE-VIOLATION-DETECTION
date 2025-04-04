@@ -26,3 +26,6 @@ static/reports/*
 # System files
 .DS_Store
 Thumbs.db
+
+# Exclude large model files
+*.pt
